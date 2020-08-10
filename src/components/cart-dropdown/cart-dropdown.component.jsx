@@ -39,7 +39,6 @@ const CartDropdown = ({ cartItems, history, dispatch }) => (
     	</CustomButton>
 
 		
-		
 
 
 	</div>
